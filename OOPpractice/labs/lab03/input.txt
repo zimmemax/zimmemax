@@ -1,0 +1,8 @@
+7
+1 Bulbasaur Grass
+4 Charmander Fire
+7 Squirtle Water
+25 Pikachu Electric
+37 Vulpix Fire
+54 Psyduck Water
+133 Eevee Normal

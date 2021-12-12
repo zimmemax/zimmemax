@@ -1,0 +1,35 @@
+
+
+
+Search pokemon by dex number: 37
+pokemon Found: Vulpix
+
+
+Search pokemon by type: Grass
+pokemon Found: Bulbasaur
+
+
+Search pokemon by dex number: 133
+pokemon Found: Eevee
+
+
+Search pokemon by type: Water
+pokemon Found: Squirtle
+pokemon Found: Psyduck
+
+
+Search pokemon by dex number: 37
+pokemon Found: Vulpix
+
+
+Search pokemon by type: Grass
+pokemon Found: Bulbasaur
+
+
+Search pokemon by dex number: 133
+pokemon Found: Eevee
+
+
+Search pokemon by type: Water
+pokemon Found: Squirtle
+pokemon Found: Psyduck
