@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zimmemax
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning C and Python
+- 🌱 I’m currently learning C, Python, R, and assembly!
 - 💞️ I’m looking to collaborate on anything, just talk to me!
 - 📫 Reach me at 503-360-6546 or email: zimmemax@oregonstate.edu
 
