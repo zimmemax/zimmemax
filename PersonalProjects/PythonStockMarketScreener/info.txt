@@ -1,0 +1,1 @@
+utilizes algorithms to test how various algorithms on a certain stock competes with the SANDP 500
