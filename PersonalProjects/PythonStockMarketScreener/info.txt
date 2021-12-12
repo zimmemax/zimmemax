@@ -1,1 +1,3 @@
-utilizes algorithms to test how various algorithms on a certain stock competes with the SANDP 500
+utilizes backtesting algorithms to test how various stock purchases methods on a certain stock competes with the SANDP 500. Uploads the information to a spreadsheet.
+
+There are a few files that all do different things. Fundementally they all use NUMPY and yfinance to make predictions on certain stocks.
